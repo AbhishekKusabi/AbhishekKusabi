@@ -11,10 +11,10 @@
  <!-- Social Buttons  -->
 <div align="center"> 
   <a href="mailto:kusabiabhishek@gmail.com" target ="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000?" target ="_blank" />
+    <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000?" target ="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-kusabi-364853241" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000?" target="_blank" />
+    <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000?" target="_blank" />
   </a>
 </div>
 
