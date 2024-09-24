@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbhishekKusabi.AbhishekKusabi" />
 
-<h2 align="center">Hi 👋! My name is Somling and I'm a WebDeveloper</h2>
+<h2 align="center">Hi 👋! My name is Abhishek Kusabi</h2>
 
 <h3 align="center">A passionate software developer from India </h3>
 
