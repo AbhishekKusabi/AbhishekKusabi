@@ -21,7 +21,7 @@
 <br/>
 <div align="center">
   <p>Analytics-focused Engineering Management student at Tufts University (MS, GPA: 3.67)</p>
-  <p>I turn raw data into decisions — through ML modeling, predictive analytics, financial modeling, and user behavior analysis.</p>
+  <p>I turn raw data into decisions, through ML modeling, predictive analytics, financial modeling, and user behavior analysis.</p>
   <p>🤖 89.89% ML accuracy on 2,500+ records &nbsp;|&nbsp; 📈 365-day financial time series analysis &nbsp;|&nbsp; 👥 40+ user interviews driving 83% product adoption</p>
 </div>
 
